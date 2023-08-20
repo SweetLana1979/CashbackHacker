@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec549b6a-aee5-4bcb-9b90-5d500d297f43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ec549b6a-aee5-4bcb-9b90-5d500d297f43" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_directory_selection": "C:/Users/Svetlana/IdeaProjects/CashBackHacker/src/test/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Svetlana/IdeaProjects/CashBackHacker/src/test/java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
+}</component>
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.testRemainNone">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -99,7 +96,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="CashbackHackServiceTest.testRemainWithCashback1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CashbackHackServiceTest.testRemainNone" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -112,7 +109,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ru.netology.service.CashbackHackServiceTest.testRemainWithCashback1&quot;" />
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.testRemainNone&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -173,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemainNone" />
         <item itemvalue="Gradle.CashbackHackServiceTest" />
         <item itemvalue="Gradle.CashbackHackServiceTest.testRemain4" />
         <item itemvalue="Gradle.CashbackHackServiceTest.testRemainWithCashback3" />
         <item itemvalue="Gradle.CashbackHackServiceTest.testRemainWithCashback2" />
-        <item itemvalue="Gradle.CashbackHackServiceTest.testRemainWithCashback1" />
       </list>
     </recent_temporary>
   </component>
