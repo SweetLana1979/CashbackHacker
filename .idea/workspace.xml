@@ -47,6 +47,11 @@
     &quot;last_directory_selection&quot;: &quot;C:/Users/Svetlana/IdeaProjects/CashBackHacker/src/test/java&quot;
   }
 }</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+    </option>
+  </component>
   <component name="RunManager" selected="Gradle.CashbackHackServiceTest.testRemainNone">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
