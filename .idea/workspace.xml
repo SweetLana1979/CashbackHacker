@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ec549b6a-aee5-4bcb-9b90-5d500d297f43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,12 @@
     &quot;last_directory_selection&quot;: &quot;C:/Users/Svetlana/IdeaProjects/CashBackHacker/src/test/java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.testRemainNone">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -105,7 +109,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="CashbackHackServiceTest.testRemainWithCashback1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CashbackHackServiceTest.testRemainNone" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -118,7 +122,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ru.netology.service.CashbackHackServiceTest.testRemainWithCashback1&quot;" />
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.testRemainNone&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -179,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemainNone" />
         <item itemvalue="Gradle.CashbackHackServiceTest" />
         <item itemvalue="Gradle.CashbackHackServiceTest.testRemain4" />
         <item itemvalue="Gradle.CashbackHackServiceTest.testRemainWithCashback3" />
         <item itemvalue="Gradle.CashbackHackServiceTest.testRemainWithCashback2" />
-        <item itemvalue="Gradle.CashbackHackServiceTest.testRemainWithCashback1" />
       </list>
     </recent_temporary>
   </component>
